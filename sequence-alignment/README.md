@@ -1,6 +1,6 @@
-#### DNA Sequence Alignment
+## DNA Sequence Alignment
 
-<img src="sequence-alignment-screenshot-1" alt="sequence-alignment-screenshot" width="400" />
+<img src="sequence-alignment-screenshot-1.png" alt="sequence-alignment-screenshot" width="400" />
 
 ##### Compilation
 

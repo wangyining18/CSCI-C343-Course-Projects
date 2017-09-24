@@ -1,4 +1,4 @@
-#### Flood it!
+## Flood it!
 
 <img src="floodit-screenshot-1.png" alt="floodit-screenshot" width="400" />
 

@@ -1,4 +1,4 @@
-#### Segment Intersection
+## Segment Intersection
 
 <img src="segment-intersection-screenshot-1.png" alt="segment-intersection-screenshot" width="400" />
 
